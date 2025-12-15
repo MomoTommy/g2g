@@ -37,8 +37,12 @@ docker-compose logs -f
 
 4. Access the application:
 - **Frontend**: http://localhost:3000
+  <img width="2268" height="858" alt="image" src="https://github.com/user-attachments/assets/859f3407-6426-46b7-bb98-5d44e334f728" />
+
 - **Backend API**: http://localhost:8000
 - **API Documentation**: http://localhost:8000/docs
+<img width="2268" height="858" alt="image" src="https://github.com/user-attachments/assets/cba5f40d-48c0-4c1f-9186-35dfa8c634b1" />
+
 
 ### Stopping the Application
 
@@ -77,3 +81,4 @@ docker-compose down -v
    - Go to "Points" tab
    - Select customer
    - View balance
+
